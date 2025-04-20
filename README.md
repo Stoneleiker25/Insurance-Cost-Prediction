@@ -29,8 +29,9 @@ This project applies supervised machine learning to predict medical insurance ch
 - Non-smokers showed stable, lower costs across all age and BMI groups  
 - Annual 5% adjustment aligned results with long-term healthcare cost trends and expected customer growth
 
-## Business Recommendations
-- Encourage non-smoking with discount incentives (30, 60, 90 days)  
-- Require basic health screenings to confirm smoking status  
-- Adjust rates or restrict entry for high-risk applicants  
-- Use predicted risk to guide premium tiering and benefit eligibility
+## Recommendation
+- Provide discounts for verified non-smoking periods (30, 60, 90 days)  
+- Offer gift cards or wellness bonuses for sustained health improvements  
+- Implement tiered premium benefits for participants in no-smoking programs 
+- Restrict acceptance of new applicants who are confirmed active smokers due to high-risk exposure  
+- Require a basic health screening or smoking status verification for all new enrollees  
