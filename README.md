@@ -11,9 +11,10 @@ This project applies supervised machine learning to predict medical insurance ch
 
 ## Tools and Technologies
 - Python (pandas, scikit-learn, matplotlib, XGBoost)  
-- AWS SageMaker (model training and deployment)  
-- Jupyter Notebook  
+- AWS SageMaker (Jupyter Notebooks, EC2 backend)  
+- AWS S3 (for dataset and model storage)  
 - Git (version control)
+
 
 ## Methodology
 1. Exploratory Data Analysis (EDA)  
