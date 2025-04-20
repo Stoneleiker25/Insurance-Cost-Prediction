@@ -33,5 +33,3 @@ This project applies supervised machine learning to predict medical insurance ch
 - Require basic health screenings to confirm smoking status  
 - Adjust rates or restrict entry for high-risk applicants  
 - Use predicted risk to guide premium tiering and benefit eligibility
-
-## File Structure
